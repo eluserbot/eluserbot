@@ -5,3 +5,6 @@
 
 
 ![Profil Dilihat](https://komarev.com/ghpvc/?username=eluserbot&color=blue&style=flat-square&label=Profile+Dilihat)
+
+## Repo Stats 
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=eluserbot&repo=YourDaddyMusic&theme=dark)
