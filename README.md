@@ -1,9 +1,9 @@
-### Hi there 👋, I'm EL
+# Hi there 👋, I'm EL
 
 
 ![Python](https://telegra.ph/file/caeb5fdffef27acd787da.jpg)
 
-## kontak Developer !!
+## Kontak Developer !!
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/rautama)
 
 
