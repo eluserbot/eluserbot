@@ -14,3 +14,7 @@
 
 ## Repo Stats 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=eluserbot&repo=YourDaddyMusic&theme=dark)
+
+
+
+ Hanya pemula, Inshaallah kedepannya bikin repo sendiri
