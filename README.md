@@ -1,3 +1,4 @@
 ![Python](https://telegra.ph/file/caeb5fdffef27acd787da.jpg)
 
-![Telegram](https://telegra.ph/file/d77c23253463f4f11ee89.jpg)
+## kontak Developer !!
+![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)[t.me/rautama]
