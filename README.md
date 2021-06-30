@@ -12,8 +12,17 @@
 ## Stats 
 <p align="center"><a href="https://github.com/eluserbot"><img src="https://github-readme-stats.vercel.app/api?username=eluserbot&show_icons=true&theme=radical"></a></p>
 
-## Activity Trophy
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=eluserbot)
 
+</details>
 
-- Hanya pemula, Inshaallah kedepannya bikin repo sendiri
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/eluserbot?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+</details>
